@@ -1,16 +1,5 @@
-#About me
-
-
-**liuke128/liuke128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on studying
-- 🌱 I’m currently learning university course.
-- 👯 I’m looking to collaborate on physics competition
-- 🤔 I’m looking for help with physics competition
-- 💬 Ask me about ...
-- 📫 How to reach me: nothing
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: note
--  🤯 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
